@@ -28,9 +28,8 @@ If this sounds like you, reach out to learn more about current opportunities!
 
 {% capture content %}
 
-{% include figure.html image="images/jpouget-headshot.jpg" caption="Jennie Pouget, MD PhD FRCPC — Principal Investigator, University of Toronto" %}
-#{% include figure.html image="images/photo.jpg" %}
-#{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/jpouget-headshot.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
 
