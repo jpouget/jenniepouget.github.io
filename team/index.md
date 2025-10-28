@@ -15,12 +15,12 @@ Our team brings together people who are curious, kind, and highly motivated to a
 
 If this sounds like you, reach out to learn more about current opportunities!
 
-[![Join us](% include icon.html image="/images/join-us.jpg"%)](mailto:jennie.pouget@camh.ca?subject=Joining%20the%20Pouget%20Lab)
+[![Join us]({{ '/images/join-us.jpg' | relative_url }})](mailto:jennie.pouget@camh.ca?subject=Joining%20the%20Pouget%20Lab)
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-#{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
