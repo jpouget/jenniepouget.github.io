@@ -1,0 +1,1 @@
+Sitemap: https://jpouget.github.io/pouget-lab-website/sitemap.xml
