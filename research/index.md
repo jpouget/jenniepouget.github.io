@@ -9,7 +9,7 @@ nav:
 
 {% include figure.html image="images/pouget-lab.png" %}
 
-The Pouget Lab is a computational (dry) lab that leverages large-scale human genetic studies and multiomic sequencing technologies to understand how the brain works at a molecular level. We use these insights to shed light on the neurobiology of psychosis and related disorders. The ultimate goal of our research is to translate molecular discoveries into earlier, more personalized interventions and prevention strategies for young people experiencing mental illness.<img width="468" height="87" alt="image" src="https://github.com/user-attachments/assets/384a72d5-c1e5-4f7c-816f-dfa2fcf7dc2f" />
+The Pouget Lab is a computational (dry) lab that leverages large-scale human genetic studies and multiomic sequencing technologies to understand how the brain works at a molecular level. We use these insights to shed light on the neurobiology of psychosis and related disorders. The ultimate goal of our research is to translate molecular discoveries into earlier, more personalized interventions and prevention strategies for young people experiencing mental illness.
 
 {% include section.html %}
 
