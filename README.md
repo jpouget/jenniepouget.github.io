@@ -5,6 +5,6 @@
 
   # jpouget's Website
 
-  Visit **[jpouget.github.io/jenniepouget.github.io](https://jpouget.github.io/jenniepouget.github.io)** 🚀
+  Visit **[jpouget.github.io](https://jpouget.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
