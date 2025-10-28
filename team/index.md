@@ -14,6 +14,8 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
+{% include section.html %}
+
 The Pouget Lab is growing! We are actively recruiting graduate students, postdoctoral research fellows, and research analysts to join our group.
 
 We are deeply committed to building a collaborative, supportive, and inclusive lab environment where every member feels safe, respected, and empowered to thrive. All lab members uphold a shared commitment to maintaining a culture of kindness, accountability, and integrity in how we do science and support one another. 
