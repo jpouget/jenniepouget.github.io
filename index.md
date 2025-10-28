@@ -1,9 +1,9 @@
 ---
 ---
 
-# jpouget's Website
+# Pouget Lab Website
 
-An engaging 1-3 sentence description of your lab.
+The Pouget Lab uses cutting-edge computational genomics to uncover how genetic variation shapes brain development and vulnerability to psychiatric disorders. By integrating multiomic data from the brain, our team aims to pinpoint the molecular mechanisms underlying psychosis and translate these discoveries into earlier, more personalized interventions for youth mental health.
 
 {% include section.html %}
 
