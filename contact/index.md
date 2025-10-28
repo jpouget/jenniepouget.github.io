@@ -23,7 +23,7 @@ nav:
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps/place/1025+Queen+St+W,+Toronto,+ON+M6J+1H1/@43.6440959,-79.4206487,17z/data=!3m1!4b1!4m6!3m5!1s0x882b357652e44b4d:0xde527c5511424126!8m2!3d43.644092!4d-79.4180738!16s%2Fg%2F11qwskyfqm?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D]"
+  link="https://www.google.com/maps/place/1025+Queen+St+W,+Toronto,+ON+M6J+1H1/@43.6440959,-79.4206487,17z/data=!3m1!4b1!4m6!3m5!1s0x882b357652e44b4d:0xde527c5511424126!8m2!3d43.644092!4d-79.4180738!16s%2Fg%2F11qwskyfqm?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}
