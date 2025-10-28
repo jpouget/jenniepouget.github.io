@@ -7,6 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+
+{% include section.html background="images/background.jpg" dark=true %}
+
 The Pouget Lab is growing! We are actively recruiting graduate students, postdoctoral research fellows, and research analysts to join our group.
 
 We are deeply committed to building a collaborative, supportive, and inclusive lab environment where every member feels safe, respected, and empowered to thrive. All lab members uphold a shared commitment to maintaining a culture of kindness, accountability, and integrity in how we do science and support one another. 
@@ -19,18 +26,3 @@ If this sounds like you, reach out to learn more about current opportunities!
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/jpouget-headshot.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
