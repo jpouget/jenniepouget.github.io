@@ -2,12 +2,10 @@
   subtitle: DLPFC EnhanCers fInetuning Brain-gene Expression across the Lifespan (DECIBELmap)
   group: featured
   image: images/DECIBELmap.jpg
-  link: https://github.com/
-  description: Our DECIBELmap project integrates multimodal single-nucleus sequencing data (sn-RNAseq + sn-ATACseq measured simultaneously in the same individual nuclei) from postmortem neurotypical DLPFC samples spanning neurodevelopmental timepoints from fetus to adulthood to identify
-    cell-type-specific enhancer–gene links relevant to neurodevelopment.  
-    Our maps illuminate how enhancers finetune brain gene expression in neuronal and glial cell types across the lifespan,
-    and hold strong potential to reveal molecular pathways underlying psychosis and related psychiatric disorders.  
-    _Image adapted from Crocker et al. * Nature Genetics* (2016)._
+  description: >
+    Our DECIBELmap project integrates multimodal single-nucleus sequencing data (sn-RNAseq + sn-ATACseq measured simultaneously in the same individual nuclei) from postmortem neurotypical DLPFC samples spanning neurodevelopmental timepoints from fetus to adulthood to identify cell-type-specific enhancer–gene links relevant to neurodevelopment.  
+    Our maps illuminate how enhancers finetune brain gene expression in neuronal and glial cell types across the lifespan, and hold strong potential to reveal molecular pathways underlying psychosis and related psychiatric disorders.  
+    _Image adapted from Crocker *et al.*, *Nature Genetics* (2016)._
   tags:
     - resource
 
@@ -15,23 +13,13 @@
   subtitle: a subtitle
   group: featured
   image: images/schizophrenia.jpg
-  description: A core aspect of our research program investigates the genetic architecture of schizophrenia. Using large-scale human genetic studies from international consortia such as the the Psychiatric Genomics Consortium,
-    our work in this area has applied Mendelian randomization [(Prins *et al.*, *PLoS Med* 2016)](https://doi.org/10.1371/journal.pmed.1001955),
-    polygenic risk scoring [(Pouget *et al.*, *Pers Med Psychiatry* 2021; Lu *et al.*, *Psychol Med* 2015)],
-    LD Score regression [(Pouget *et al.*, *Hum Mol Genet* 2019)],
-    and statistical fine-mapping [(Pouget *et al.*, *Mol Psychiatry* 2024)] to
-    disentangle shared and distinct genetic influences between schizophrenia and other psychiatric and immune-related disorders.  
-
+  description: >
+    A core aspect of our research program investigates the genetic architecture of schizophrenia. Using large-scale human genetic studies from international consortia such as the Psychiatric Genomics Consortium, our work applies Mendelian randomization [(Prins *et al.*, *PLoS Med* 2016)](https://doi.org/10.1371/journal.pmed.1001955), polygenic risk scoring [(Pouget *et al.*, *Pers Med Psychiatry* 2021; Lu *et al.*, *Psychol Med* 2015)], LD Score regression [(Pouget *et al.*, *Hum Mol Genet* 2019)], and statistical fine-mapping [(Pouget *et al.*, *Mol Psychiatry* 2024)] to disentangle shared and distinct genetic influences between schizophrenia and other psychiatric and immune-related disorders.
 
 - title: IMAGINED Study
   subtitle: Integrating Medical And Genetic INformation to re-Envision Depression (IMAGINED)
   image: images/IMAGINED-logo.jpg
   link: https://www.camh.ca/en/science-and-research/research-connect/integrating-medical-and-genetic-information-to-re-envision-depression-study
-  description: Our IMAGINED Study aims to uncover the biological and clinical factors that contribute to
-    individual differences in depression and treatment response in young people. By integrating genomic,
-    clinical, and environmental data, we seek to better understand how genetic variation and
-    life experiences shape long-term outcomes of depression in young people, including progression to more severe outcomes like psychosis.  
-    Our findings will help identify biological pathways that underlie
-    depression, paving the way for earlier detection, personalized prevention, and more
-    effective treatment strategies.  
-
+  description: >
+    Our IMAGINED Study aims to uncover the biological and clinical factors that contribute to individual differences in depression and treatment response in young people. By integrating genomic, clinical, and environmental data, we seek to better understand how genetic variation and life experiences shape long-term outcomes of depression in young people, including progression to more severe outcomes like psychosis.  
+    Our findings will help identify biological pathways that underlie depression, paving the way for earlier detection, personalized prevention, and more effective treatment strategies.
